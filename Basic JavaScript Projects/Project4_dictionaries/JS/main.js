@@ -7,5 +7,5 @@ function my_Dictionary(){ //function to call my dictionary
         Sound:"Meow!"
     };
     delete Animal.Species; //deleted one of the entries in the dictionary
-    document.getElementById("Dictionary").innerHTML = Animal.Breed; //displays the entry that it calls for
+    document.getElementById("Dictionary").innerHTML = Animal.Species; //displays the entry that it calls for
 }
