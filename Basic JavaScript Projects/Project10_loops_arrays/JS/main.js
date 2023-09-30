@@ -62,4 +62,4 @@ var R = returnFunction(5,3); //function to return two numbers
         return "The car is a " + this.year + this.color + this.make + this.model; //function returns characteristics.
     }
  };
- document.getElementById("Car_Object").innerHTML = Car.description();
+ document.getElementById("Car_Object").innerHTML = Car.description(); 
