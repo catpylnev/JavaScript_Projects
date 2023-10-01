@@ -28,6 +28,12 @@
     float: right;
 }
 
+.center{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
 #showText{
     width: 200px;
     height: 190px;
@@ -45,4 +51,22 @@
     margin: 10px 0px 0px 100px;
     width: 100px;
     height: 40px;
+}
+
+
+h1, h3{
+    font-family: Arial, san-serif;
+}
+
+h1, h3{
+    color: darkred;
+}
+
+div{
+    font-family: Gerogia, serif;
+    color: darkorange;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
 }
