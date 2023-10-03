@@ -5,14 +5,17 @@
 }
 
 #frmMenu{
-    width: 400px;
+    width: 600px;
     height: 200px;
+    display: flex;
+    justify-content: center;
+    margin: 10 auto;
 }
 
 #totalPrice{
     width: 200px;
     height: 190px;
-    margin: 0 auto;
+    margin-top: 150px;
     float: right;
 }
 
@@ -20,18 +23,21 @@
     width: 200px;
     height: 200px;
     float: left;
+    margin: 0 5px;
 }
 
 .right{
     width: 200px;
     height: 200px;
     float: right;
+    margin: 0 5px;
 }
 
 .center{
     width: 200px;
     height: 200px;
     float: left;
+    margin: 0 10px;
 }
 
 #showText{
